@@ -1,5 +1,24 @@
-# yama-cli
-A CLI utility to work with YAMA and YAMAML files
+# yama-cli (legacy)
+
+> [!WARNING]
+> **This repository is archived and no longer maintained.**
+>
+> This is the legacy Nunjucks-based `yama-cli` (v0.x). 
+>
+> **For new work, use the current CLI:**
+> **<https://github.com/yamaml/yama-cli>**
+>
+> The current CLI is published on JSR as `@nishad/yama` and tracks the
+> [YAMAML 0.2.0 specification](https://docs.yamaml.org/specs/yamaml/spec/).
+> It is documented at **<https://docs.yamaml.org>**.
+>
+> This repository is preserved here for historical reference.
+
+---
+
+## Original README
+
+A CLI utility to work with YAMA and YAMAML files.
 
 ```bash
 usage :
